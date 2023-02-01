@@ -1,2 +1,4 @@
-# trianburner.github.io
-It's not and will never be finished. I also don't know what I'm doing.
+# brianturner.dev
+This is a work in progress personal portfolio website.
+
+Intended for me to learn HTML, CSS, explore Firebase, as well as becoming familiar with general web development.
